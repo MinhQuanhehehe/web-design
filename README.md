@@ -6,7 +6,7 @@ CLI command:
 <br> 
 <code>git checkout {the week you will check}</code>
 <br> 
-<code>cd pj1/{the week you will check}</code>
+<code>cd web-design/{the week you will check}</code>
 <br>
 <code>php -S localhost:8080</code>
 <br>
